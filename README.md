@@ -16,4 +16,4 @@
     ```
 
 ## Deployment
-This application is deployed at: [Live Demo](https://your-deployment-url.vercel.app)
+This application is deployed at: [Live Demo](https://chart-app-olive.vercel.app/)
